@@ -1,65 +1,134 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
+    <url>
     
+      <loc>https://mfpm.netlify.com/home/hero_carousel/</loc>
+      <lastmod>2017-10-15T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://mfpm.netlify.com/home/about/</loc>
+      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://mfpm.netlify.com/home/publications_selected/</loc>
+      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://mfpm.netlify.com/home/skills/</loc>
+      <lastmod>2017-09-20T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://mfpm.netlify.com/home/publications/</loc>
+      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://mfpm.netlify.com/home/talks_selected/</loc>
+      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://mfpm.netlify.com/home/talks/</loc>
+      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://mfpm.netlify.com/home/posts/</loc>
+      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://mfpm.netlify.com/home/projects/</loc>
+      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://mfpm.netlify.com/home/teaching/</loc>
+      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://mfpm.netlify.com/home/tags/</loc>
+      <lastmod>2017-09-20T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://mfpm.netlify.com/home/search/</loc>
+      <lastmod>2018-07-23T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://mfpm.netlify.com/home/contact/</loc>
+      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://mfpm.netlify.com/home/</loc>
+      <lastmod>2018-07-23T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
     <url>
     
       <loc>https://mfpm.netlify.com/</loc>
       <lastmod>2018-07-23T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
-    
   
-    
     <url>
     
       <loc>https://mfpm.netlify.com/people/</loc>
       <priority>0</priority>
     </url>
-    
   
-    
     <url>
     
       <loc>https://mfpm.netlify.com/categories/</loc>
       <priority>0</priority>
     </url>
-    
   
-    
     <url>
     
       <loc>https://mfpm.netlify.com/post/</loc>
     </url>
-    
   
-    
     <url>
     
       <loc>https://mfpm.netlify.com/publication_types/</loc>
       <priority>0</priority>
     </url>
-    
   
-    
     <url>
     
       <loc>https://mfpm.netlify.com/publication/</loc>
     </url>
-    
   
-    
     <url>
     
       <loc>https://mfpm.netlify.com/talk/</loc>
     </url>
-    
   
-    
     <url>
     
       <loc>https://mfpm.netlify.com/tags/</loc>
       <priority>0</priority>
     </url>
-    
   
 </urlset>
