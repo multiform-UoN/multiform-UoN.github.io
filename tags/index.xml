@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Multiscale Fluid dynamics and Porous Media (MULTIFORM)</title>
-    <link>www.multiform.xyz/tags/</link>
+    <link>http://www.multiform.xyz/tags/</link>
     <description>Recent content in Tags on Multiscale Fluid dynamics and Porous Media (MULTIFORM)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="www.multiform.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.multiform.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -1,134 +1,114 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    <url>
-    
-      <loc>www.multiform.xyz/home/hero_carousel/</loc>
-      <lastmod>2017-10-15T00:00:00+01:00</lastmod>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/home/hero_carousel/</loc>
+    <lastmod>2017-10-15T00:00:00+01:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/home/about/</loc>
-      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/home/publications_selected/</loc>
-      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/home/publications_selected/</loc>
+    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/home/skills/</loc>
-      <lastmod>2017-09-20T00:00:00+01:00</lastmod>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/home/skills/</loc>
+    <lastmod>2017-09-20T00:00:00+01:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/home/publications/</loc>
-      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/home/publications/</loc>
+    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/home/talks_selected/</loc>
-      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/home/talks_selected/</loc>
+    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/home/talks/</loc>
-      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/home/talks/</loc>
+    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/home/posts/</loc>
-      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/home/posts/</loc>
+    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/home/projects/</loc>
-      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/home/projects/</loc>
+    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/home/teaching/</loc>
-      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/home/teaching/</loc>
+    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/home/tags/</loc>
-      <lastmod>2017-09-20T00:00:00+01:00</lastmod>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/home/tags/</loc>
+    <lastmod>2017-09-20T00:00:00+01:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/home/search/</loc>
-      <lastmod>2018-07-23T00:00:00+01:00</lastmod>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/home/search/</loc>
+    <lastmod>2018-07-23T00:00:00+01:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/home/contact/</loc>
-      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/home/contact/</loc>
+    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/home/</loc>
-      <lastmod>2018-07-23T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/home/</loc>
+    <lastmod>2018-07-23T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/</loc>
-      <lastmod>2018-07-23T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/</loc>
+    <lastmod>2018-07-23T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/people/</loc>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/people/</loc>
+    <priority>0</priority>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/categories/</loc>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/categories/</loc>
+    <priority>0</priority>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/post/</loc>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/post/</loc>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/publication_types/</loc>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/publication_types/</loc>
+    <priority>0</priority>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/publication/</loc>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/publication/</loc>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/talk/</loc>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/talk/</loc>
+  </url>
   
-    <url>
-    
-      <loc>www.multiform.xyz/tags/</loc>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>http://www.multiform.xyz/tags/</loc>
+    <priority>0</priority>
+  </url>
   
 </urlset>
