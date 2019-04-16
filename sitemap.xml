@@ -3,112 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.multiform.xyz/home/hero_carousel/</loc>
-    <lastmod>2017-10-15T00:00:00+01:00</lastmod>
+    <loc>https://example.com/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.multiform.xyz/home/about/</loc>
-    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.multiform.xyz/home/publications_selected/</loc>
-    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+    <loc>https://example.com/post/chapter-6/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.multiform.xyz/home/skills/</loc>
-    <lastmod>2017-09-20T00:00:00+01:00</lastmod>
+    <loc>https://example.com/post/chapter-5/</loc>
+    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.multiform.xyz/home/publications/</loc>
-    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+    <loc>https://example.com/post/chapter-4/</loc>
+    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.multiform.xyz/home/talks_selected/</loc>
-    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.multiform.xyz/home/talks/</loc>
-    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.multiform.xyz/home/posts/</loc>
-    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.multiform.xyz/home/projects/</loc>
-    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.multiform.xyz/home/teaching/</loc>
-    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.multiform.xyz/home/tags/</loc>
-    <lastmod>2017-09-20T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.multiform.xyz/home/search/</loc>
-    <lastmod>2018-07-23T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.multiform.xyz/home/contact/</loc>
-    <lastmod>2016-04-20T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.multiform.xyz/home/</loc>
-    <lastmod>2018-07-23T00:00:00+01:00</lastmod>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.multiform.xyz/</loc>
-    <lastmod>2018-07-23T00:00:00+01:00</lastmod>
+    <loc>https://example.com/tags/scene/</loc>
+    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.multiform.xyz/people/</loc>
+    <loc>https://example.com/post/chapter-3/</loc>
+    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/chapter-2/</loc>
+    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/chapter-1/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.multiform.xyz/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.multiform.xyz/post/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.multiform.xyz/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.multiform.xyz/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.multiform.xyz/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.multiform.xyz/tags/</loc>
-    <priority>0</priority>
+    <loc>https://example.com/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
