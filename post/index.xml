@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Multiscale Fluid dynamics and Porous Media (MPFM)</title>
-    <link>https://mfpm.netlify.com/post/</link>
-    <description>Recent content in Posts on Multiscale Fluid dynamics and Porous Media (MPFM)</description>
+    <title>Posts on Multiscale Fluid dynamics and Porous Media (MULTIFORM)</title>
+    <link>www.multiform.xyz/post/</link>
+    <description>Recent content in Posts on Multiscale Fluid dynamics and Porous Media (MULTIFORM)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="https://mfpm.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.multiform.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
