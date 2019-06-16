@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>People on MULTIFORM</title>
+    <title>People on MultiForM research group</title>
     <link>http://www.multiform.xyz/people/</link>
-    <description>Recent content in People on MULTIFORM</description>
+    <description>Recent content in People on MultiForM research group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
@@ -17,7 +17,16 @@
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/icardi/</guid>
-      <description>xyz</description>
+      <description>Academic lead, Applied Mathematics</description>
+    </item>
+    
+    <item>
+      <title>Federico Municchi</title>
+      <link>http://www.multiform.xyz/people/municchi/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/municchi/</guid>
+      <description>OpenFOAM&amp;reg;, multiphase flows, upscaling</description>
     </item>
     
     <item>
@@ -26,8 +35,16 @@
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/pescimoro/</guid>
-      <description> Under construction&amp;hellip;
-Bio Research interests Background </description>
+      <description> Bio Research interests Projects </description>
+    </item>
+    
+    <item>
+      <title>John Couch</title>
+      <link>http://www.multiform.xyz/people/couch/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/couch/</guid>
+      <description> Bio Research interests Projects </description>
     </item>
     
   </channel>
