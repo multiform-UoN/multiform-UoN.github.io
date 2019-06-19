@@ -16,8 +16,28 @@
   </url>
   
   <url>
+    <loc>http://www.multiform.xyz/research/projects/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://www.multiform.xyz/post/</loc>
     <lastmod>2019-06-16T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/people/muljadi/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/people/students/ebel/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -37,6 +57,20 @@
   </url>
   
   <url>
+    <loc>http://www.multiform.xyz/people/students/willis/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/people/students/shen/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://www.multiform.xyz/people/municchi/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -44,7 +78,31 @@
   </url>
   
   <url>
+    <loc>http://www.multiform.xyz/research/fluid/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/research/multiscale/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/research/numerical/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://www.multiform.xyz/software/openfoam/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/research/porous/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -70,6 +128,13 @@
   </url>
   
   <url>
+    <loc>http://www.multiform.xyz/people/akele/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://www.multiform.xyz/publications/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -89,6 +154,27 @@
   
   <url>
     <loc>http://www.multiform.xyz/software/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/people/external/passalacqua/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/people/external/porta/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/people/external/dentz/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -131,7 +217,19 @@
   </url>
   
   <url>
+    <loc>http://www.multiform.xyz/tags/external-collaborator/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.multiform.xyz/tags/geoenergy-research-centre/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/tags/mass/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -155,7 +253,19 @@
   </url>
   
   <url>
+    <loc>http://www.multiform.xyz/tags/school-of-engineering/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.multiform.xyz/tags/school-of-mathematical-sciences/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/tags/undergraduate/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
     <priority>0</priority>
   </url>

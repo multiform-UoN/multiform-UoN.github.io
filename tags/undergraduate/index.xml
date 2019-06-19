@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>School of Mathematical Sciences on MultiForM research group</title>
-    <link>http://www.multiform.xyz/tags/school-of-mathematical-sciences/</link>
-    <description>Recent content in School of Mathematical Sciences on MultiForM research group</description>
+    <title>Undergraduate on MultiForM research group</title>
+    <link>http://www.multiform.xyz/tags/undergraduate/</link>
+    <description>Recent content in Undergraduate on MultiForM research group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
     
-	<atom:link href="http://www.multiform.xyz/tags/school-of-mathematical-sciences/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.multiform.xyz/tags/undergraduate/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://www.multiform.xyz/people/students/ebel/</guid>
       <description>OpenFOAM&amp;reg;, Conjugate Heat Transfer</description>
-    </item>
-    
-    <item>
-      <title>Matteo Icardi</title>
-      <link>http://www.multiform.xyz/people/icardi/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>http://www.multiform.xyz/people/icardi/</guid>
-      <description>Academic lead</description>
     </item>
     
     <item>
@@ -45,15 +36,6 @@
       
       <guid>http://www.multiform.xyz/people/students/shen/</guid>
       <description>Mori-Zwanzig projection, model reduction</description>
-    </item>
-    
-    <item>
-      <title>Federico Municchi</title>
-      <link>http://www.multiform.xyz/people/municchi/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>http://www.multiform.xyz/people/municchi/</guid>
-      <description>OpenFOAM&amp;reg;, multiphase flows, upscaling, computational fluid dynamics</description>
     </item>
     
   </channel>
