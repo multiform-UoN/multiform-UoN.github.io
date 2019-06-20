@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>External collaborator on MultiForM research group</title>
+    <link>http://www.multiform.xyz/tags/external-collaborator/</link>
+    <description>Recent content in External collaborator on MultiForM research group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.multiform.xyz/tags/external-collaborator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alberto Passalacqua</title>
+      <link>http://www.multiform.xyz/people/external/passalacqua/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/external/passalacqua/</guid>
+      <description>Multiphase flows, Quadrature-based moment methods, OpenFOAM</description>
+    </item>
+    
+    <item>
+      <title>Giovanni Porta</title>
+      <link>http://www.multiform.xyz/people/external/porta/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/external/porta/</guid>
+      <description>Transport in porous media</description>
+    </item>
+    
+    <item>
+      <title>Juan Manuel Mejia Cardenas</title>
+      <link>http://www.multiform.xyz/people/external/mejia/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/external/mejia/</guid>
+      <description>Reservoir Engineering</description>
+    </item>
+    
+    <item>
+      <title>Marco Dentz</title>
+      <link>http://www.multiform.xyz/people/external/dentz/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/external/dentz/</guid>
+      <description>Transport in porous media</description>
+    </item>
+    
+  </channel>
+</rss>

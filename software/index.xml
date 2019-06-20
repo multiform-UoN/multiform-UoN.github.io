@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on MultiForM research group</title>
+    <link>http://www.multiform.xyz/software/</link>
+    <description>Recent content in Software on MultiForM research group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.multiform.xyz/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenFOAM (R) solvers and add-ons</title>
+      <link>http://www.multiform.xyz/software/openfoam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.multiform.xyz/software/openfoam/</guid>
+      <description>Under construction&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Julia and Python</title>
+      <link>http://www.multiform.xyz/software/julia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.multiform.xyz/software/julia/</guid>
+      <description>Under construction
+Atomistic simulation and coarse-graining of 1D periodic system
+Julia website</description>
+    </item>
+    
+    <item>
+      <title>Matlab and chebfun</title>
+      <link>http://www.multiform.xyz/software/chebfun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.multiform.xyz/software/chebfun/</guid>
+      <description>Under construction&amp;hellip;
+chebfun website</description>
+    </item>
+    
+  </channel>
+</rss>

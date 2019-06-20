@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on MultiForM research group</title>
+    <link>http://www.multiform.xyz/research/</link>
+    <description>Recent content in Research on MultiForM research group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.multiform.xyz/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Funded projects</title>
+      <link>http://www.multiform.xyz/research/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.multiform.xyz/research/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluid Dynamics</title>
+      <link>http://www.multiform.xyz/research/fluid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.multiform.xyz/research/fluid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale analysis</title>
+      <link>http://www.multiform.xyz/research/multiscale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.multiform.xyz/research/multiscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical methods</title>
+      <link>http://www.multiform.xyz/research/numerical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.multiform.xyz/research/numerical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Porous Media</title>
+      <link>http://www.multiform.xyz/research/porous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.multiform.xyz/research/porous/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on MultiForM research group</title>
+    <link>http://www.multiform.xyz/people/</link>
+    <description>Recent content in People on MultiForM research group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.multiform.xyz/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Matteo Icardi</title>
+      <link>http://www.multiform.xyz/people/icardi/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/icardi/</guid>
+      <description>Academic lead</description>
+    </item>
+    
+    <item>
+      <title>Bagus Muljadi</title>
+      <link>http://www.multiform.xyz/people/muljadi/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/muljadi/</guid>
+      <description>Academic lead</description>
+    </item>
+    
+    <item>
+      <title>Bethany Ebel</title>
+      <link>http://www.multiform.xyz/people/students/ebel/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/students/ebel/</guid>
+      <description>OpenFOAM&amp;reg;, Conjugate Heat Transfer</description>
+    </item>
+    
+    <item>
+      <title>Toby Willis</title>
+      <link>http://www.multiform.xyz/people/students/willis/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/students/willis/</guid>
+      <description>Diffuse Domains and Immersed Boundaries</description>
+    </item>
+    
+    <item>
+      <title>Xinyu Shen</title>
+      <link>http://www.multiform.xyz/people/students/shen/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/students/shen/</guid>
+      <description>Mori-Zwanzig projection, model reduction</description>
+    </item>
+    
+    <item>
+      <title>Evaldas Greiciunas</title>
+      <link>http://www.multiform.xyz/people/greiciunas/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/greiciunas/</guid>
+      <description>OpenFOAM&amp;reg;, computational fluid dynamics</description>
+    </item>
+    
+    <item>
+      <title>Federico Municchi</title>
+      <link>http://www.multiform.xyz/people/municchi/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/municchi/</guid>
+      <description>Bio I am an Energy Engineer with MSc in Energy and Nuclear Engineering and a PhD in Process and Particle Engineering. My expertise lies in the Multiscale and numerical modelling of multiphase and porous systems. I obtained my PhD in process and particle engineering from the Graz University of Technology. There, I worked within the European project EU FP7-604656 &amp;ldquo;NanoSim&amp;rdquo; in collaborations with industrial partner like SINTEF and DCS Computing.</description>
+    </item>
+    
+    <item>
+      <title>Emma McIvor</title>
+      <link>http://www.multiform.xyz/people/mcivor/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/mcivor/</guid>
+      <description>OpenFOAM&amp;reg;, biomathematics</description>
+    </item>
+    
+    <item>
+      <title>Eugenio Pescimoro</title>
+      <link>http://www.multiform.xyz/people/pescimoro/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/pescimoro/</guid>
+      <description>Hydrology, MODFLOW, EPANET</description>
+    </item>
+    
+    <item>
+      <title>John Couch</title>
+      <link>http://www.multiform.xyz/people/couch/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/couch/</guid>
+      <description> Bio Research interests Projects </description>
+    </item>
+    
+    <item>
+      <title>Mayo Akele</title>
+      <link>http://www.multiform.xyz/people/akele/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/akele/</guid>
+      <description> Bio Research interests Projects </description>
+    </item>
+    
+    <item>
+      <title>Alberto Passalacqua</title>
+      <link>http://www.multiform.xyz/people/external/passalacqua/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/external/passalacqua/</guid>
+      <description>Multiphase flows, Quadrature-based moment methods, OpenFOAM</description>
+    </item>
+    
+    <item>
+      <title>Giovanni Porta</title>
+      <link>http://www.multiform.xyz/people/external/porta/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/external/porta/</guid>
+      <description>Transport in porous media</description>
+    </item>
+    
+    <item>
+      <title>Juan Manuel Mejia Cardenas</title>
+      <link>http://www.multiform.xyz/people/external/mejia/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/external/mejia/</guid>
+      <description>Reservoir Engineering</description>
+    </item>
+    
+    <item>
+      <title>Marco Dentz</title>
+      <link>http://www.multiform.xyz/people/external/dentz/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/external/dentz/</guid>
+      <description>Transport in porous media</description>
+    </item>
+    
+    <item>
+      <title>Hossein Fazeli</title>
+      <link>http://www.multiform.xyz/people/fazeli/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/fazeli/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
