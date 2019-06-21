@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MultiForM on MultiForM research group</title>
+    <title>MultiForM on MultiForM - Multiscale Fluid Dynamics in Porous Media</title>
     <link>http://www.multiform.xyz/</link>
-    <description>Recent content in MultiForM on MultiForM research group</description>
+    <description>Recent content in MultiForM on MultiForM - Multiscale Fluid Dynamics in Porous Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Jun 2019 11:25:05 -0400</lastBuildDate>
@@ -103,7 +103,7 @@ Here are relevant links if you want to know how this website works:
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/municchi/</guid>
-      <description>Bio I am an Energy Engineer with MSc in Energy and Nuclear Engineering and a PhD in Process and Particle Engineering. My expertise lies in the Multiscale and numerical modelling of multiphase and porous systems. I obtained my PhD in process and particle engineering from the Graz University of Technology. There, I worked within the European project EU FP7-604656 &amp;ldquo;NanoSim&amp;rdquo; in collaborations with industrial partner like SINTEF and DCS Computing.</description>
+      <description>OpenFOAM&amp;reg;, multiphase flows, upscaling, computational fluid dynamics</description>
     </item>
     
     <item>
