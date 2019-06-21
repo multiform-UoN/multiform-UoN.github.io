@@ -19,10 +19,13 @@
       <guid>http://www.multiform.xyz/post/website/</guid>
       <description>Welcome to our brand new website, created with the great Hugo, hosted on GitHub.
 Here are relevant links if you want to know how this website works:
-- GitHub pages
-- Hugo
-- GoHugo Ananke theme
-- Namecheap</description>
+ GitHub pages
+ Hugo
+ GoHugo Ananke theme
+ Namecheap
+  Test Katex for Hugo
+\[\int_{a}^{b} x^2 dx\]
+Is an integral</description>
     </item>
     
   </channel>

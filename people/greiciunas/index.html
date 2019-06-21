@@ -12,7 +12,7 @@
     <meta name="generator" content="Hugo 0.55.6" />
     
     
-      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
     
 
     
@@ -50,9 +50,22 @@
 <meta name="twitter:title" content="Evaldas Greiciunas"/>
 <meta name="twitter:description" content="Postdoctoral fellow, School of Mathematical Sciences"/>
 
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-142210608-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
   </head>
 
-  <body class="ma0 avenir bg-near-white">
+  <body class="ma0 avenir bg-near-white production">
 
     
    
@@ -236,11 +249,19 @@
     <ul class="pa0 list">
 	   
 	     <li  class="mb2">
+          <a href="/people/mcivor/">Emma McIvor</a>
+        </li>
+	    
+	     <li  class="mb2">
           <a href="/people/municchi/">Federico Municchi</a>
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/people/mcivor/">Emma McIvor</a>
+          <a href="/people/students/willis/">Toby Willis</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/people/icardi/">Matteo Icardi</a>
         </li>
 	    
 	     <li  class="mb2">
@@ -249,14 +270,6 @@
 	    
 	     <li  class="mb2">
           <a href="/people/students/shen/">Xinyu Shen</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="/people/icardi/">Matteo Icardi</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="/people/students/willis/">Toby Willis</a>
         </li>
 	    
 	     <li  class="mb2">
@@ -269,6 +282,7 @@
 </aside>
 
   </article>
+
 
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
@@ -315,4 +329,36 @@
 
 
   </body>
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.css" integrity="sha384-+MsSfd29vjUzcyqYURxcmpWGtqoSHBy+QdEJNLEslXQftxojQv0k6BGDqUNp9GtA" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.js" integrity="sha384-5zUJgoXUAOXAoLeyJm2Ja3vbN3VCnoc2w0rG7dyC2jjGwD8PINuWoDHJ3gNdkOxj" crossorigin="anonymous"></script>
+  <script>
+    renderMathInElement(document.body,
+      {
+          delimiters: [
+              {left: "$$", right: "$$", display: true},
+              {left: "$", right: "$", display: false},
+          ]
+      }
+    );
+
+    var inlineMathArray = document.querySelectorAll("script[type='math/tex']");
+    for (var i = 0; i < inlineMathArray.length; i++) {
+      var inlineMath = inlineMathArray[i];
+      var tex = inlineMath.innerText || inlineMath.textContent;
+      var replaced = document.createElement("span");
+      replaced.innerHTML = katex.renderToString(tex, {displayMode: false});
+      inlineMath.parentNode.replaceChild(replaced, inlineMath);
+    }
+
+    var displayMathArray = document.querySelectorAll("script[type='math/tex; mode=display']");
+    for (var i = 0; i < displayMathArray.length; i++) {
+      var displayMath = displayMathArray[i];
+      var tex = displayMath.innerHTML;
+      var replaced = document.createElement("span");
+      replaced.innerHTML = katex.renderToString(tex.replace(/%.*/g, ''), {displayMode: true});
+      displayMath.parentNode.replaceChild(replaced, displayMath);
+    }
+  </script>
+
 </html>

@@ -12,7 +12,7 @@
     <meta name="generator" content="Hugo 0.55.6" />
     
     
-      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
     
 
     
@@ -41,7 +41,7 @@
 
 <meta itemprop="datePublished" content="2017-04-14T11:25:05-04:00" />
 <meta itemprop="dateModified" content="2017-04-14T11:25:05-04:00" />
-<meta itemprop="wordCount" content="285">
+<meta itemprop="wordCount" content="222">
 
 
 
@@ -50,9 +50,22 @@
 <meta name="twitter:title" content="Federico Municchi"/>
 <meta name="twitter:description" content="Postdoctoral fellow, School of Mathematical Sciences"/>
 
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-142210608-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
   </head>
 
-  <body class="ma0 avenir bg-near-white">
+  <body class="ma0 avenir bg-near-white production">
 
     
    
@@ -203,12 +216,17 @@
 
 <h2 id="bio">Bio</h2>
 
-<p>I am an Energy Engineer with MSc in Energy and Nuclear Engineering and a PhD in Process and Particle Engineering. My expertise lies in the Multiscale and numerical modelling of multiphase and porous systems.
-I obtained my PhD in process and particle engineering from the Graz University of Technology. There, I worked within the European project EU FP7-604656 &ldquo;NanoSim&rdquo; in collaborations with industrial partner like SINTEF and DCS Computing. The overall objective of the project was to develop a multi-scale platform to model gas-particle CO2 capture technologies, which is now publicly available in GitHub.
-Within this project, I developed an innovative computational tool specifically designed for upscaling (i.e., linking models defined at different spatio-temporal scales) by mean of the volume averaging method. Furthermore, I developed novel numerical algorithms for detailed particle-scale simulations and analysis of fluid-particle heat transfer, which are essential for deriving closures to enable device-scale simulations.
-With my research, I demonstrated that closure models employed in Euler-Euler particle simulations can not be applied (as it is done in classic formulations) to Euler-Lagrange simulations, thus rejecting some established drag models and underlining the need for new upscaling approaches.
-After my PhD, I spent one year as a postdoc at the School of Mechanical Engineering, Purdue University.  I worked at the development of numerical methods for multiphase flows and fluid-structure interaction, as well as mathematical modelling of instabilities in separated flows.
-I am currently working at the School of Mathematical Sciences, University of Nottingham as postdoctoral research associate.</p>
+<p>I hold a a PhD in Process and Particle Engineering from the Graz University of Technology and a master degree in Energy and Nuclear Engineering from the University of Bologn. My expertise lies in the Multiscale and numerical modelling of multiphase and porous systems.</p>
+
+<p>My PhD was funded by the European project EU FP7-604656 <a href="http://www.sintef.no/projectweb/nanosim/">NanoSim</a> with the overall objective of developing a multi-scale platform to model gas-particle CO2 capture technologies, which is now publicly available in GitHub.</p>
+
+<p>Afterwards, I spent one year as Postdoctoral Researcher at Purdue University.</p>
+
+<p>During my career I developed a range of C++ libraries for scientific computation including:
+- <a href="https://github.com/fmuni/C3PO">CPPO</a> : a C++/MPI library specifically designed for upscaling (i.e., linking models defined at different spatio-temporal scales) by mean of the volume averaging method.
+- <a href="https://github.com/fmuni/openHFDIB">OpenHFDIB</a>: an OpenFOAM&reg; based library for simulating flow, heat and mass transfer in complex domains using an immersed boundary/fictitious domain method.
+- <a href="https://github.com/fmuni/twoFluidsNBSuspensionFoam">twoFluidsNBSuspensionFoam</a>: an OpenFOAM&reg; based library for simulating flows of non-Brownian suspensions including particle migration phenomena (using a two-Fluid model).
+-  <a href="https://github.com/fmuni/filteredTFM">filteredTFM</a>: an OpenFOAM&reg; based library for simulations of dense suspensions employing the filtered two-Fluid model.</p>
 
 <h2 id="research-interests">Research interests</h2>
 
@@ -281,15 +299,7 @@ I am currently working at the School of Mathematical Sciences, University of Not
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/people/students/willis/">Toby Willis</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="/people/students/ebel/">Bethany Ebel</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="/people/pescimoro/">Eugenio Pescimoro</a>
+          <a href="/people/fazeli/">Hossein Fazeli</a>
         </li>
 	    
 	     <li  class="mb2">
@@ -297,7 +307,15 @@ I am currently working at the School of Mathematical Sciences, University of Not
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/people/fazeli/">Hossein Fazeli</a>
+          <a href="/people/pescimoro/">Eugenio Pescimoro</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/people/students/willis/">Toby Willis</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/people/students/ebel/">Bethany Ebel</a>
         </li>
 	    
     </ul>
@@ -306,6 +324,7 @@ I am currently working at the School of Mathematical Sciences, University of Not
 </aside>
 
   </article>
+
 
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
@@ -352,4 +371,36 @@ I am currently working at the School of Mathematical Sciences, University of Not
 
 
   </body>
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.css" integrity="sha384-+MsSfd29vjUzcyqYURxcmpWGtqoSHBy+QdEJNLEslXQftxojQv0k6BGDqUNp9GtA" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.js" integrity="sha384-5zUJgoXUAOXAoLeyJm2Ja3vbN3VCnoc2w0rG7dyC2jjGwD8PINuWoDHJ3gNdkOxj" crossorigin="anonymous"></script>
+  <script>
+    renderMathInElement(document.body,
+      {
+          delimiters: [
+              {left: "$$", right: "$$", display: true},
+              {left: "$", right: "$", display: false},
+          ]
+      }
+    );
+
+    var inlineMathArray = document.querySelectorAll("script[type='math/tex']");
+    for (var i = 0; i < inlineMathArray.length; i++) {
+      var inlineMath = inlineMathArray[i];
+      var tex = inlineMath.innerText || inlineMath.textContent;
+      var replaced = document.createElement("span");
+      replaced.innerHTML = katex.renderToString(tex, {displayMode: false});
+      inlineMath.parentNode.replaceChild(replaced, inlineMath);
+    }
+
+    var displayMathArray = document.querySelectorAll("script[type='math/tex; mode=display']");
+    for (var i = 0; i < displayMathArray.length; i++) {
+      var displayMath = displayMathArray[i];
+      var tex = displayMath.innerHTML;
+      var replaced = document.createElement("span");
+      replaced.innerHTML = katex.renderToString(tex.replace(/%.*/g, ''), {displayMode: true});
+      displayMath.parentNode.replaceChild(replaced, displayMath);
+    }
+  </script>
+
 </html>

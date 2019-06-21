@@ -12,7 +12,7 @@
     <meta name="generator" content="Hugo 0.55.6" />
     
     
-      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
     
 
     
@@ -50,9 +50,22 @@
 <meta name="twitter:title" content="Matteo Icardi"/>
 <meta name="twitter:description" content="Assistant Professor, School of Mathematical Sciences"/>
 
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-142210608-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
   </head>
 
-  <body class="ma0 avenir bg-near-white">
+  <body class="ma0 avenir bg-near-white production">
 
     
    
@@ -231,9 +244,7 @@
       
     </header>
 
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
-
-<h2 id="bio">Bio</h2>
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h2 id="bio">Bio</h2>
 
 <ul>
 <li>2015-2017: Warwick Zeeman Lecturer, <a href="https://warwick.ac.uk/fac/sci/maths/">Mathematics Institute, University of Warwick</a>, UK</li>
@@ -257,7 +268,7 @@
 <h2 id="funded-projects">Funded projects</h2>
 
 <ul>
-<li>EPSRC CASE scholarship on &ldquo;Communication through porous and heterogeneous media&rdquo;</li>
+<li>EPSRC CASE scholarship on &quot;Communication through porous and heterogeneous media&quot;</li>
 <li><a href="www.securegeoenergy.eu">SECURe: Subsurface Evaluation of Carbon capture and storage and Unconventional Risk, H2020 EU project, 2018-2021</a></li>
 <li>Development of a robust modelling and up-scaling technique of nanofluids transport and retention for subsurface engineering applications, Royal Academy of Engineering, Industry-academia partnership. 2018-2020</li>
 <li>Asphaltene dynamics at the pore-scale and the impact on oil production at the field-scale, Royal Academy of Engineering, Industry-academia partnership. 2019-2021</li>
@@ -409,11 +420,11 @@
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/people/students/willis/">Toby Willis</a>
+          <a href="/people/greiciunas/">Evaldas Greiciunas</a>
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/people/mcivor/">Emma McIvor</a>
+          <a href="/people/students/willis/">Toby Willis</a>
         </li>
 	    
 	     <li  class="mb2">
@@ -421,11 +432,11 @@
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/people/greiciunas/">Evaldas Greiciunas</a>
+          <a href="/people/mcivor/">Emma McIvor</a>
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/people/couch/">John Couch</a>
+          <a href="/people/students/ebel/">Bethany Ebel</a>
         </li>
 	    
 	     <li  class="mb2">
@@ -433,7 +444,7 @@
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/people/students/ebel/">Bethany Ebel</a>
+          <a href="/people/couch/">John Couch</a>
         </li>
 	    
     </ul>
@@ -442,6 +453,7 @@
 </aside>
 
   </article>
+
 
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
@@ -488,4 +500,36 @@
 
 
   </body>
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.css" integrity="sha384-+MsSfd29vjUzcyqYURxcmpWGtqoSHBy+QdEJNLEslXQftxojQv0k6BGDqUNp9GtA" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.js" integrity="sha384-5zUJgoXUAOXAoLeyJm2Ja3vbN3VCnoc2w0rG7dyC2jjGwD8PINuWoDHJ3gNdkOxj" crossorigin="anonymous"></script>
+  <script>
+    renderMathInElement(document.body,
+      {
+          delimiters: [
+              {left: "$$", right: "$$", display: true},
+              {left: "$", right: "$", display: false},
+          ]
+      }
+    );
+
+    var inlineMathArray = document.querySelectorAll("script[type='math/tex']");
+    for (var i = 0; i < inlineMathArray.length; i++) {
+      var inlineMath = inlineMathArray[i];
+      var tex = inlineMath.innerText || inlineMath.textContent;
+      var replaced = document.createElement("span");
+      replaced.innerHTML = katex.renderToString(tex, {displayMode: false});
+      inlineMath.parentNode.replaceChild(replaced, inlineMath);
+    }
+
+    var displayMathArray = document.querySelectorAll("script[type='math/tex; mode=display']");
+    for (var i = 0; i < displayMathArray.length; i++) {
+      var displayMath = displayMathArray[i];
+      var tex = displayMath.innerHTML;
+      var replaced = document.createElement("span");
+      replaced.innerHTML = katex.renderToString(tex.replace(/%.*/g, ''), {displayMode: true});
+      displayMath.parentNode.replaceChild(replaced, displayMath);
+    }
+  </script>
+
 </html>
