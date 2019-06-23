@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computational Fluid Dynamics on MultiForM - Multiscale Fluid Dynamics in Porous Media</title>
+    <title>Computational Fluid Dynamics on MultiForM - Multiscale Fluid Dynamics and Porous Media</title>
     <link>http://www.multiform.xyz/tags/computational-fluid-dynamics/</link>
-    <description>Recent content in Computational Fluid Dynamics on MultiForM - Multiscale Fluid Dynamics in Porous Media</description>
+    <description>Recent content in Computational Fluid Dynamics on MultiForM - Multiscale Fluid Dynamics and Porous Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
@@ -14,7 +14,7 @@
     <item>
       <title>Matteo Icardi</title>
       <link>http://www.multiform.xyz/people/icardi/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.multiform.xyz/people/icardi/</guid>
       <description>Academic lead</description>

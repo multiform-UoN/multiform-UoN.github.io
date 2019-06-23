@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Coding on MultiForM - Multiscale Fluid Dynamics in Porous Media</title>
+    <title>Coding on MultiForM - Multiscale Fluid Dynamics and Porous Media</title>
     <link>http://www.multiform.xyz/tags/coding/</link>
-    <description>Recent content in Coding on MultiForM - Multiscale Fluid Dynamics in Porous Media</description>
+    <description>Recent content in Coding on MultiForM - Multiscale Fluid Dynamics and Porous Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Jun 2019 11:25:05 -0400</lastBuildDate>
@@ -19,13 +19,8 @@
       <guid>http://www.multiform.xyz/post/website/</guid>
       <description>Welcome to our brand new website, created with the great Hugo, hosted on GitHub.
 Here are relevant links if you want to know how this website works:
- GitHub pages
- Hugo
- GoHugo Ananke theme
- Namecheap
-  Test Katex for Hugo
-\[\int_{a}^{b} x^2 dx\]
-Is an integral</description>
+ GitHub pages Namecheap Hugo GoHugo Ananke theme Mmark markdown interpreter Katex  The Ananke theme has been modified to enable $\LaTeX$ through Mmark and Katex. Here is an example of maths&amp;rsquo; rendering
+[ \int_{a}^{b} x^2 dx ]</description>
     </item>
     
   </channel>
