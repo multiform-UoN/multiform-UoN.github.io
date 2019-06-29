@@ -10,6 +10,12 @@
   </url>
   
   <url>
+    <loc>http://www.multiform.xyz/post/2019interporeuk/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://www.multiform.xyz/post/2019openfoam/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -353,6 +359,11 @@
   
   <url>
     <loc>http://www.multiform.xyz/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/tags/interpore/</loc>
     <priority>0</priority>
   </url>
   
