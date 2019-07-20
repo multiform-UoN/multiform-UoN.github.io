@@ -76,6 +76,20 @@
   </url>
   
   <url>
+    <loc>http://www.multiform.xyz/people/collaborators/gradoni/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/people/collaborators/vanderzee/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://www.multiform.xyz/people/greiciunas/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -273,6 +287,12 @@
   </url>
   
   <url>
+    <loc>http://www.multiform.xyz/tags/finite-elements/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.multiform.xyz/tags/geoenergy-research-centre/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
     <priority>0</priority>
@@ -311,6 +331,18 @@
   
   <url>
     <loc>http://www.multiform.xyz/tags/non-fickian-transport/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/tags/nottingham-collaborator/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/tags/numerical-analysis/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
     <priority>0</priority>
   </url>
