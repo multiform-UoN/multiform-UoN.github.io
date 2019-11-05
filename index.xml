@@ -6,10 +6,38 @@
     <description>Recent content in MultiForM on MultiForM - Multiscale Fluid Dynamics and Porous Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jun 2019 11:25:05 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2019 11:25:05 -0400</lastBuildDate>
     
 	<atom:link href="http://www.multiform.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome to our new PhD students</title>
+      <link>http://www.multiform.xyz/post/robertdylan/</link>
+      <pubDate>Wed, 16 Oct 2019 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/post/robertdylan/</guid>
+      <description>Welcome to our new PhD students Robert and Dylan:
+ Robert Barnett will work on a project related to the multiscale modelling and simulation of charged particles in porous media and lithium-ion batteries, supervised by Matteo Icardi and John King (Mathematics). Adilan Mahdiyasa &amp;ldquo;Dylan&amp;rdquo; will work on the modelling and simulation of peatlands and their effect on carbon storage, supervised by David Large, Bagus Muljadi (Engineering), and Matteo Icardi (Mathematics).  </description>
+    </item>
+    
+    <item>
+      <title>5th InterPore UK conference</title>
+      <link>http://www.multiform.xyz/post/2019interporeuk/</link>
+      <pubDate>Thu, 05 Sep 2019 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/post/2019interporeuk/</guid>
+      <description>Sept 2-3 2019, Teeside University. Call for abstract is open!</description>
+    </item>
+    
+    <item>
+      <title>First Nottingham OpenFOAM(R) workshop</title>
+      <link>http://www.multiform.xyz/post/2019openfoam/</link>
+      <pubDate>Mon, 22 Jul 2019 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/post/2019openfoam/</guid>
+      <description>July 22-23 2019 at the University of Nottingham. Registration is open!</description>
+    </item>
     
     <item>
       <title>New MultiForM website</title>
@@ -24,21 +52,17 @@ Here are relevant links if you want to know how this website works:
     </item>
     
     <item>
-      <title>5th InterPore UK conference</title>
-      <link>http://www.multiform.xyz/post/2019interporeuk/</link>
+      <title>ASCE EMI 2020</title>
+      <link>http://www.multiform.xyz/post/asce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.multiform.xyz/post/2019interporeuk/</guid>
-      <description>Sept 2-3 2019, Teeside University. Call for abstract is open!</description>
-    </item>
-    
-    <item>
-      <title>First Nottingham OpenFOAM(R) workshop</title>
-      <link>http://www.multiform.xyz/post/2019openfoam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.multiform.xyz/post/2019openfoam/</guid>
-      <description>July 22-23 2019 at the University of Nottingham. Registration is open!</description>
+      <guid>http://www.multiform.xyz/post/asce/</guid>
+      <description>2020 International Conference of the Engineering Mechanics Institute
+April 5-8
+Durham, UK
+Details for the conference can be found in the conference website. The deadline for submission of abstracts is the 15th of November, 2019.
+Minisymposium Organizers
+ Matteo Icardi, The University of Nottingham Savvas Triantafyllou, The University of Nottingham Emilio Martínez-Pañeda, Imperial College London  MS-52: Analysis and Methods for the Simulation of Deformation, Failure and Coupled Processes Across Scales</description>
     </item>
     
     <item>
@@ -60,6 +84,21 @@ Here are relevant links if you want to know how this website works:
     </item>
     
     <item>
+      <title>WCCM ECCOMAS 2020</title>
+      <link>http://www.multiform.xyz/post/eccomas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.multiform.xyz/post/eccomas/</guid>
+      <description>14th World Congress on Computational Mechanics and 8th European Congress on Computational Methods in Applied Science and Engineering
+Paris, July 19-24 2020
+MS292: NOVEL MODELLING AND NUMERICAL APPROACHES FOR FLOW AND TRANSPORT PROCESSES IN POROUS MEDIA
+Organisers
+ Marco Berardi, CNR Mario Putti, Padova Matteo Icardi, Nottingham Bagus Muljadi, Nottingham  Details about the conference can be found here The deadline for submissions is December 15, 2019.
+Description
+Porous media are ubiquitous in many industrial and natural processes, and there is a growing need of understanding and predicting the multiscale flow and transport phenomena in key energy and manufacturing sectors such as subsurface reservoirs, vadose and root zones, composite materials, filtration, and catalytic reactors, just to name a few.</description>
+    </item>
+    
+    <item>
       <title>Bagus Muljadi</title>
       <link>http://www.multiform.xyz/people/muljadi/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
@@ -69,30 +108,30 @@ Here are relevant links if you want to know how this website works:
     </item>
     
     <item>
-      <title>Bethany Ebel</title>
-      <link>http://www.multiform.xyz/people/students/ebel/</link>
+      <title>Ho-Hin Lai</title>
+      <link>http://www.multiform.xyz/people/students/lai/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>http://www.multiform.xyz/people/students/ebel/</guid>
-      <description>OpenFOAM&amp;reg;, Conjugate Heat Transfer</description>
+      <guid>http://www.multiform.xyz/people/students/lai/</guid>
+      <description>OpenFOAM, reactive transport</description>
     </item>
     
     <item>
-      <title>Toby Willis</title>
-      <link>http://www.multiform.xyz/people/students/willis/</link>
+      <title>Matthew Hazelwood</title>
+      <link>http://www.multiform.xyz/people/students/hazelwood/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>http://www.multiform.xyz/people/students/willis/</guid>
-      <description>Diffuse Domains and Immersed Boundaries</description>
+      <guid>http://www.multiform.xyz/people/students/hazelwood/</guid>
+      <description>Julia, Population Balance Equation</description>
     </item>
     
     <item>
-      <title>Xinyu Shen</title>
-      <link>http://www.multiform.xyz/people/students/shen/</link>
+      <title>Ryan Campion</title>
+      <link>http://www.multiform.xyz/people/students/campion/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>http://www.multiform.xyz/people/students/shen/</guid>
-      <description>Mori-Zwanzig projection, model reduction</description>
+      <guid>http://www.multiform.xyz/people/students/campion/</guid>
+      <description>Julia, Population Balance Equation</description>
     </item>
     
     <item>
@@ -115,11 +154,11 @@ Here are relevant links if you want to know how this website works:
     
     <item>
       <title>Evaldas Greiciunas</title>
-      <link>http://www.multiform.xyz/people/greiciunas/</link>
+      <link>http://www.multiform.xyz/people/alumni/greiciunas/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>http://www.multiform.xyz/people/greiciunas/</guid>
-      <description>OpenFOAM&amp;reg;, computational fluid dynamics</description>
+      <guid>http://www.multiform.xyz/people/alumni/greiciunas/</guid>
+      <description>OpenFOAM&amp;reg;, computational fluid dynamics, heat transfer</description>
     </item>
     
     <item>
@@ -195,11 +234,20 @@ Here are relevant links if you want to know how this website works:
     </item>
     
     <item>
-      <title>Emma McIvor</title>
-      <link>http://www.multiform.xyz/people/mcivor/</link>
+      <title>Adilan Mahdiyasa</title>
+      <link>http://www.multiform.xyz/people/mahdiyasa/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>http://www.multiform.xyz/people/mcivor/</guid>
+      <guid>http://www.multiform.xyz/people/mahdiyasa/</guid>
+      <description> Bio Research interests Projects </description>
+    </item>
+    
+    <item>
+      <title>Emma McIvor</title>
+      <link>http://www.multiform.xyz/people/alumni/mcivor/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/alumni/mcivor/</guid>
       <description>OpenFOAM&amp;reg;, biomathematics</description>
     </item>
     
@@ -227,6 +275,15 @@ Here are relevant links if you want to know how this website works:
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/akele/</guid>
+      <description> Bio Research interests Projects </description>
+    </item>
+    
+    <item>
+      <title>Robert Barnett</title>
+      <link>http://www.multiform.xyz/people/barnett/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/barnett/</guid>
       <description> Bio Research interests Projects </description>
     </item>
     
@@ -261,6 +318,15 @@ chebfun website</description>
     </item>
     
     <item>
+      <title>Bethany Ebel</title>
+      <link>http://www.multiform.xyz/people/students/ebel/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/students/ebel/</guid>
+      <description>OpenFOAM&amp;reg;, Conjugate Heat Transfer</description>
+    </item>
+    
+    <item>
       <title>Giovanni Porta</title>
       <link>http://www.multiform.xyz/people/external/porta/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
@@ -285,6 +351,24 @@ chebfun website</description>
       
       <guid>http://www.multiform.xyz/people/external/dentz/</guid>
       <description>Transport in porous media</description>
+    </item>
+    
+    <item>
+      <title>Toby Willis</title>
+      <link>http://www.multiform.xyz/people/students/willis/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/students/willis/</guid>
+      <description>Diffuse Domains and Immersed Boundaries</description>
+    </item>
+    
+    <item>
+      <title>Xinyu Shen</title>
+      <link>http://www.multiform.xyz/people/students/shen/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/students/shen/</guid>
+      <description>Mori-Zwanzig projection, model reduction</description>
     </item>
     
     <item>

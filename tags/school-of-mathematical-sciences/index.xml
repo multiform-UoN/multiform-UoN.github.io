@@ -21,6 +21,60 @@
     </item>
     
     <item>
+      <title>Ho-Hin Lai</title>
+      <link>http://www.multiform.xyz/people/students/lai/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/students/lai/</guid>
+      <description>OpenFOAM, reactive transport</description>
+    </item>
+    
+    <item>
+      <title>Matthew Hazelwood</title>
+      <link>http://www.multiform.xyz/people/students/hazelwood/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/students/hazelwood/</guid>
+      <description>Julia, Population Balance Equation</description>
+    </item>
+    
+    <item>
+      <title>Ryan Campion</title>
+      <link>http://www.multiform.xyz/people/students/campion/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/students/campion/</guid>
+      <description>Julia, Population Balance Equation</description>
+    </item>
+    
+    <item>
+      <title>Evaldas Greiciunas</title>
+      <link>http://www.multiform.xyz/people/alumni/greiciunas/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/alumni/greiciunas/</guid>
+      <description>OpenFOAM&amp;reg;, computational fluid dynamics, heat transfer</description>
+    </item>
+    
+    <item>
+      <title>Federico Municchi</title>
+      <link>http://www.multiform.xyz/people/municchi/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/municchi/</guid>
+      <description>OpenFOAM&amp;reg;, multiphase flows, upscaling, computational fluid dynamics</description>
+    </item>
+    
+    <item>
+      <title>Emma McIvor</title>
+      <link>http://www.multiform.xyz/people/alumni/mcivor/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/alumni/mcivor/</guid>
+      <description>OpenFOAM&amp;reg;, biomathematics</description>
+    </item>
+    
+    <item>
       <title>Bethany Ebel</title>
       <link>http://www.multiform.xyz/people/students/ebel/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
@@ -45,33 +99,6 @@
       
       <guid>http://www.multiform.xyz/people/students/shen/</guid>
       <description>Mori-Zwanzig projection, model reduction</description>
-    </item>
-    
-    <item>
-      <title>Evaldas Greiciunas</title>
-      <link>http://www.multiform.xyz/people/greiciunas/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>http://www.multiform.xyz/people/greiciunas/</guid>
-      <description>OpenFOAM&amp;reg;, computational fluid dynamics</description>
-    </item>
-    
-    <item>
-      <title>Federico Municchi</title>
-      <link>http://www.multiform.xyz/people/municchi/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>http://www.multiform.xyz/people/municchi/</guid>
-      <description>OpenFOAM&amp;reg;, multiphase flows, upscaling, computational fluid dynamics</description>
-    </item>
-    
-    <item>
-      <title>Emma McIvor</title>
-      <link>http://www.multiform.xyz/people/mcivor/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>http://www.multiform.xyz/people/mcivor/</guid>
-      <description>OpenFOAM&amp;reg;, biomathematics</description>
     </item>
     
   </channel>

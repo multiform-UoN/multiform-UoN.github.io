@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Multiscale modelling on MultiForM - Multiscale Fluid Dynamics and Porous Media</title>
+    <title>multiscale modelling on MultiForM - Multiscale Fluid Dynamics and Porous Media</title>
     <link>http://www.multiform.xyz/tags/multiscale-modelling/</link>
-    <description>Recent content in Multiscale modelling on MultiForM - Multiscale Fluid Dynamics and Porous Media</description>
+    <description>Recent content in multiscale modelling on MultiForM - Multiscale Fluid Dynamics and Porous Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
     
 	<atom:link href="http://www.multiform.xyz/tags/multiscale-modelling/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,6 +18,15 @@
       
       <guid>http://www.multiform.xyz/people/icardi/</guid>
       <description>Academic lead</description>
+    </item>
+    
+    <item>
+      <title>Federico Municchi</title>
+      <link>http://www.multiform.xyz/people/municchi/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/municchi/</guid>
+      <description>OpenFOAM&amp;reg;, multiphase flows, upscaling, computational fluid dynamics</description>
     </item>
     
   </channel>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>welcome on MultiForM - Multiscale Fluid Dynamics and Porous Media</title>
+    <link>http://www.multiform.xyz/tags/welcome/</link>
+    <description>Recent content in welcome on MultiForM - Multiscale Fluid Dynamics and Porous Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Oct 2019 11:25:05 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.multiform.xyz/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to our new PhD students</title>
+      <link>http://www.multiform.xyz/post/robertdylan/</link>
+      <pubDate>Wed, 16 Oct 2019 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/post/robertdylan/</guid>
+      <description>Welcome to our new PhD students Robert and Dylan:
+ Robert Barnett will work on a project related to the multiscale modelling and simulation of charged particles in porous media and lithium-ion batteries, supervised by Matteo Icardi and John King (Mathematics). Adilan Mahdiyasa &amp;ldquo;Dylan&amp;rdquo; will work on the modelling and simulation of peatlands and their effect on carbon storage, supervised by David Large, Bagus Muljadi (Engineering), and Matteo Icardi (Mathematics).  </description>
+    </item>
+    
+  </channel>
+</rss>

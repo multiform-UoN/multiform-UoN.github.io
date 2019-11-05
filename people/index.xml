@@ -30,30 +30,30 @@
     </item>
     
     <item>
-      <title>Bethany Ebel</title>
-      <link>http://www.multiform.xyz/people/students/ebel/</link>
+      <title>Ho-Hin Lai</title>
+      <link>http://www.multiform.xyz/people/students/lai/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>http://www.multiform.xyz/people/students/ebel/</guid>
-      <description>OpenFOAM&amp;reg;, Conjugate Heat Transfer</description>
+      <guid>http://www.multiform.xyz/people/students/lai/</guid>
+      <description>OpenFOAM, reactive transport</description>
     </item>
     
     <item>
-      <title>Toby Willis</title>
-      <link>http://www.multiform.xyz/people/students/willis/</link>
+      <title>Matthew Hazelwood</title>
+      <link>http://www.multiform.xyz/people/students/hazelwood/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>http://www.multiform.xyz/people/students/willis/</guid>
-      <description>Diffuse Domains and Immersed Boundaries</description>
+      <guid>http://www.multiform.xyz/people/students/hazelwood/</guid>
+      <description>Julia, Population Balance Equation</description>
     </item>
     
     <item>
-      <title>Xinyu Shen</title>
-      <link>http://www.multiform.xyz/people/students/shen/</link>
+      <title>Ryan Campion</title>
+      <link>http://www.multiform.xyz/people/students/campion/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>http://www.multiform.xyz/people/students/shen/</guid>
-      <description>Mori-Zwanzig projection, model reduction</description>
+      <guid>http://www.multiform.xyz/people/students/campion/</guid>
+      <description>Julia, Population Balance Equation</description>
     </item>
     
     <item>
@@ -76,11 +76,11 @@
     
     <item>
       <title>Evaldas Greiciunas</title>
-      <link>http://www.multiform.xyz/people/greiciunas/</link>
+      <link>http://www.multiform.xyz/people/alumni/greiciunas/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>http://www.multiform.xyz/people/greiciunas/</guid>
-      <description>OpenFOAM&amp;reg;, computational fluid dynamics</description>
+      <guid>http://www.multiform.xyz/people/alumni/greiciunas/</guid>
+      <description>OpenFOAM&amp;reg;, computational fluid dynamics, heat transfer</description>
     </item>
     
     <item>
@@ -93,11 +93,20 @@
     </item>
     
     <item>
-      <title>Emma McIvor</title>
-      <link>http://www.multiform.xyz/people/mcivor/</link>
+      <title>Adilan Mahdiyasa</title>
+      <link>http://www.multiform.xyz/people/mahdiyasa/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>http://www.multiform.xyz/people/mcivor/</guid>
+      <guid>http://www.multiform.xyz/people/mahdiyasa/</guid>
+      <description> Bio Research interests Projects </description>
+    </item>
+    
+    <item>
+      <title>Emma McIvor</title>
+      <link>http://www.multiform.xyz/people/alumni/mcivor/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/alumni/mcivor/</guid>
       <description>OpenFOAM&amp;reg;, biomathematics</description>
     </item>
     
@@ -129,12 +138,30 @@
     </item>
     
     <item>
+      <title>Robert Barnett</title>
+      <link>http://www.multiform.xyz/people/barnett/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/barnett/</guid>
+      <description> Bio Research interests Projects </description>
+    </item>
+    
+    <item>
       <title>Alberto Passalacqua</title>
       <link>http://www.multiform.xyz/people/external/passalacqua/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/external/passalacqua/</guid>
       <description>Multiphase flows, Quadrature-based moment methods, OpenFOAM</description>
+    </item>
+    
+    <item>
+      <title>Bethany Ebel</title>
+      <link>http://www.multiform.xyz/people/students/ebel/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/students/ebel/</guid>
+      <description>OpenFOAM&amp;reg;, Conjugate Heat Transfer</description>
     </item>
     
     <item>
@@ -162,6 +189,24 @@
       
       <guid>http://www.multiform.xyz/people/external/dentz/</guid>
       <description>Transport in porous media</description>
+    </item>
+    
+    <item>
+      <title>Toby Willis</title>
+      <link>http://www.multiform.xyz/people/students/willis/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/students/willis/</guid>
+      <description>Diffuse Domains and Immersed Boundaries</description>
+    </item>
+    
+    <item>
+      <title>Xinyu Shen</title>
+      <link>http://www.multiform.xyz/people/students/shen/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/students/shen/</guid>
+      <description>Mori-Zwanzig projection, model reduction</description>
     </item>
     
     <item>
