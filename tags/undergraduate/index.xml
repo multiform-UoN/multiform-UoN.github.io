@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Undergraduate on MultiForM - Multiscale Fluid Dynamics and Porous Media</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Undergraduate on MultiForM - Multiscale Fluid Dynamics and Porous Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
-    
-	<atom:link href="http://www.multiform.xyz/tags/undergraduate/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="http://www.multiform.xyz/tags/undergraduate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ho-Hin Lai</title>
       <link>http://www.multiform.xyz/people/students/lai/</link>
@@ -44,7 +40,7 @@
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/students/ebel/</guid>
-      <description>OpenFOAM&amp;reg;, Conjugate Heat Transfer</description>
+      <description>OpenFOAM(R), Conjugate Heat Transfer</description>
     </item>
     
     <item>

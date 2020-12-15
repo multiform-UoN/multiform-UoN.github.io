@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -300,6 +300,12 @@
   </url>
   
   <url>
+    <loc>http://www.multiform.xyz/people/boccardo/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://www.multiform.xyz/</loc>
     <lastmod>2019-10-16T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -538,6 +544,12 @@
   
   <url>
     <loc>http://www.multiform.xyz/tags/minisymposium/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.multiform.xyz/tags/polito/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

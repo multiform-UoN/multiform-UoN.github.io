@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Postdocs on MultiForM - Multiscale Fluid Dynamics and Porous Media</title>
@@ -6,18 +6,14 @@
     <description>Recent content in Postdocs on MultiForM - Multiscale Fluid Dynamics and Porous Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
-    
-	<atom:link href="http://www.multiform.xyz/tags/postdocs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="http://www.multiform.xyz/tags/postdocs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evaldas Greiciunas</title>
       <link>http://www.multiform.xyz/people/alumni/greiciunas/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/alumni/greiciunas/</guid>
-      <description>OpenFOAM&amp;reg;, computational fluid dynamics, heat transfer</description>
+      <description>OpenFOAM(R), computational fluid dynamics, heat transfer</description>
     </item>
     
     <item>
@@ -26,7 +22,7 @@
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/municchi/</guid>
-      <description>OpenFOAM&amp;reg;, multiphase flows, upscaling, computational fluid dynamics</description>
+      <description>OpenFOAM(R), multiphase flows, upscaling, computational fluid dynamics</description>
     </item>
     
     <item>
@@ -35,7 +31,7 @@
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/alumni/mcivor/</guid>
-      <description>OpenFOAM&amp;reg;, biomathematics</description>
+      <description>OpenFOAM(R), biomathematics</description>
     </item>
     
     <item>

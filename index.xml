@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MultiForM on MultiForM - Multiscale Fluid Dynamics and Porous Media</title>
@@ -6,11 +6,7 @@
     <description>Recent content in MultiForM on MultiForM - Multiscale Fluid Dynamics and Porous Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2019 11:25:05 -0400</lastBuildDate>
-    
-	<atom:link href="http://www.multiform.xyz/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 16 Oct 2019 11:25:05 -0400</lastBuildDate><atom:link href="http://www.multiform.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to our new PhD students</title>
       <link>http://www.multiform.xyz/post/robertdylan/</link>
@@ -47,7 +43,7 @@
       <guid>http://www.multiform.xyz/post/website/</guid>
       <description>Welcome to our brand new website, created with the great Hugo, hosted on GitHub.
 Here are relevant links if you want to know how this website works:
- GitHub pages Namecheap Hugo GoHugo Ananke theme Mmark markdown interpreter Katex  The Ananke theme has been modified to enable $\LaTeX$ through Mmark and Katex. Here is an example of maths&amp;rsquo; rendering
+ GitHub pages Namecheap Hugo GoHugo Ananke theme Mmark markdown interpreter Katex  The Ananke theme has been modified to enable $\LaTeX$ through Mmark and Katex. Here is an example of maths&#39; rendering
 [ \int_{a}^{b} x^2 dx ]</description>
     </item>
     
@@ -58,8 +54,8 @@ Here are relevant links if you want to know how this website works:
       
       <guid>http://www.multiform.xyz/post/asce/</guid>
       <description>2020 International Conference of the Engineering Mechanics Institute
-April 5-8
-Durham, UK
+April 5-8\
+Durham, UK\
 Details for the conference can be found in the conference website. The deadline for submission of abstracts is the 15th of November, 2019.
 Minisymposium Organizers
  Matteo Icardi, The University of Nottingham Savvas Triantafyllou, The University of Nottingham Emilio Martínez-Pañeda, Imperial College London  MS-52: Analysis and Methods for the Simulation of Deformation, Failure and Coupled Processes Across Scales</description>
@@ -89,7 +85,7 @@ Minisymposium Organizers
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.multiform.xyz/post/eccomas/</guid>
-      <description>14th World Congress on Computational Mechanics and 8th European Congress on Computational Methods in Applied Science and Engineering
+      <description>14th World Congress on Computational Mechanics and 8th European Congress on Computational Methods in Applied Science and Engineering\
 Paris, July 19-24 2020
 MS292: NOVEL MODELLING AND NUMERICAL APPROACHES FOR FLOW AND TRANSPORT PROCESSES IN POROUS MEDIA
 Organisers
@@ -158,7 +154,7 @@ Porous media are ubiquitous in many industrial and natural processes, and there 
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/alumni/greiciunas/</guid>
-      <description>OpenFOAM&amp;reg;, computational fluid dynamics, heat transfer</description>
+      <description>OpenFOAM(R), computational fluid dynamics, heat transfer</description>
     </item>
     
     <item>
@@ -167,7 +163,7 @@ Porous media are ubiquitous in many industrial and natural processes, and there 
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/municchi/</guid>
-      <description>OpenFOAM&amp;reg;, multiphase flows, upscaling, computational fluid dynamics</description>
+      <description>OpenFOAM(R), multiphase flows, upscaling, computational fluid dynamics</description>
     </item>
     
     <item>
@@ -239,7 +235,7 @@ Porous media are ubiquitous in many industrial and natural processes, and there 
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/mahdiyasa/</guid>
-      <description> Bio Research interests Projects </description>
+      <description>Bio Research interests Projects </description>
     </item>
     
     <item>
@@ -248,7 +244,7 @@ Porous media are ubiquitous in many industrial and natural processes, and there 
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/alumni/mcivor/</guid>
-      <description>OpenFOAM&amp;reg;, biomathematics</description>
+      <description>OpenFOAM(R), biomathematics</description>
     </item>
     
     <item>
@@ -266,7 +262,7 @@ Porous media are ubiquitous in many industrial and natural processes, and there 
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/couch/</guid>
-      <description> Bio Research interests Projects </description>
+      <description>Bio Research interests Projects </description>
     </item>
     
     <item>
@@ -275,7 +271,7 @@ Porous media are ubiquitous in many industrial and natural processes, and there 
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/akele/</guid>
-      <description> Bio Research interests Projects </description>
+      <description>Bio Research interests Projects </description>
     </item>
     
     <item>
@@ -284,7 +280,7 @@ Porous media are ubiquitous in many industrial and natural processes, and there 
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/barnett/</guid>
-      <description> Bio Research interests Projects </description>
+      <description>Bio Research interests Projects </description>
     </item>
     
     <item>
@@ -323,7 +319,7 @@ chebfun website</description>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>http://www.multiform.xyz/people/students/ebel/</guid>
-      <description>OpenFOAM&amp;reg;, Conjugate Heat Transfer</description>
+      <description>OpenFOAM(R), Conjugate Heat Transfer</description>
     </item>
     
     <item>
@@ -369,6 +365,15 @@ chebfun website</description>
       
       <guid>http://www.multiform.xyz/people/students/shen/</guid>
       <description>Mori-Zwanzig projection, model reduction</description>
+    </item>
+    
+    <item>
+      <title>Gianluca Boccardo</title>
+      <link>http://www.multiform.xyz/people/boccardo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.multiform.xyz/people/boccardo/</guid>
+      <description>OpenFOAM(R), machine learning, upscaling</description>
     </item>
     
     <item>
